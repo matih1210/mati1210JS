@@ -1,4 +1,4 @@
-/** 
+
 let numero;
 
 do{
@@ -7,4 +7,3 @@ do{
 } while (numero<=100);
 
 console.log("Ingresaste un número mayor a 100:", numero);
-*/
